@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0px 1.3em;
+  height: 60px;
+}
+
+.header__copy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header__home {
+  font-size: 1.5em;
+}
